@@ -1,6 +1,6 @@
 # E-commerce Customer & Marketing Analytics | SQL Business Analysis
 
-## 🎯 Project Overview
+## Project Overview
 An end-to-end SQL business analytics case study for an e-commerce company. The project evaluates customer behavior, sales performance, digital marketing efficiency and website funnel performance.
 
 The project is designed to demonstrate **Business Analyst skills** including:
