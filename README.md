@@ -54,42 +54,6 @@ The objective is to answer:
 - KPI calculations
 - RFM segmentation
 
-## Project Structure
-```text
-Ecommerce-Customer-Marketing-SQL-Analytics/
-├── README.md
-├── data/
-├── sql/
-│   ├── 01_schema.sql
-│   ├── 02_load_data.sql
-│   └── 03_business_analysis.sql
-├── docs/
-│   ├── BRD.md
-│   └── FRD.md
-├── insights/
-│   └── business_insights.md
-└── powerbi/
-    └── POWER_BI_BUILD_GUIDE.md
-```
-
-## How to Run
-### 1. Create database
-Run:
-`sql/01_schema.sql`
-
-### 2. Load CSV data
-Update the local CSV paths in:
-`sql/02_load_data.sql`
-
-Then run the script in MySQL Workbench with `LOCAL INFILE` enabled.
-
-### 3. Run analysis
-Run:
-`sql/03_business_analysis.sql`
-
-### 4. Build Power BI
-Follow:
-`powerbi/POWER_BI_BUILD_GUIDE.md`
 
 ## Key Business Outputs
 The SQL layer produces:
