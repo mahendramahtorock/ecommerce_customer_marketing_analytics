@@ -83,7 +83,3 @@ Example:
 - [Business Requirements Document](docs/BRD.md)
 - [Functional Requirements Document](docs/FRD.md)
 - [Business Insights](insights/business_insights.md)
-- [Power BI Build Guide](powerbi/POWER_BI_BUILD_GUIDE.md)
-
-## Portfolio Disclaimer
-This is a **synthetic portfolio case study** created to demonstrate SQL, business analysis and analytics documentation skills. No confidential or proprietary company data is included.
