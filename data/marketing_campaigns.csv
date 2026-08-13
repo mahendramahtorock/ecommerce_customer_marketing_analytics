@@ -1,0 +1,61 @@
+campaign_id,campaign_name,channel,campaign_type,campaign_start_date,spend,impressions,clicks,conversions
+1,Google_Ads_Campaign_01,Google Ads,Social,2026-05-28,85669.65,1735785,99900,7242
+2,Meta_Ads_Campaign_02,Meta Ads,Search,2026-05-16,41181.9,1424946,48192,7197
+3,Google_Ads_Campaign_03,Google Ads,Social,2025-05-29,186142.09,935139,43984,1539
+4,Google_Ads_Campaign_04,Google Ads,Search,2025-11-29,188813.93,990885,58903,7201
+5,Email_Campaign_05,Email,Remarketing,2025-01-24,107355.1,1352962,70239,10564
+6,Email_Campaign_06,Email,Performance,2025-05-03,125334.14,547540,10365,1033
+7,Meta_Ads_Campaign_07,Meta Ads,Retention,2026-02-06,32769.61,606379,16677,2395
+8,Meta_Ads_Campaign_08,Meta Ads,Social,2025-04-16,102820.8,246401,9951,1178
+9,Influencer_Campaign_09,Influencer,Search,2025-06-06,267128.69,1771059,46058,1241
+10,Email_Campaign_10,Email,Retention,2025-07-31,67962.46,2285982,88728,10258
+11,Email_Campaign_11,Email,Performance,2025-06-20,151054.53,1205778,75361,8563
+12,Email_Campaign_12,Email,Social,2026-01-16,209511.34,1607563,57900,1447
+13,Google_Ads_Campaign_13,Google Ads,Retention,2026-04-13,244807.03,2461578,63677,5109
+14,Meta_Ads_Campaign_14,Meta Ads,Performance,2025-10-05,42721.77,1934333,38239,1156
+15,Google_Ads_Campaign_15,Google Ads,Performance,2025-10-24,185714.11,729346,43584,2813
+16,Influencer_Campaign_16,Influencer,Social,2026-01-12,195641.25,1973094,47707,7546
+17,Meta_Ads_Campaign_17,Meta Ads,Remarketing,2025-07-26,75266.78,1080740,24059,3655
+18,Google_Ads_Campaign_18,Google Ads,Social,2025-08-23,28637.58,2404098,99073,11636
+19,Meta_Ads_Campaign_19,Meta Ads,Performance,2026-05-05,256422.73,2322957,84719,6313
+20,Meta_Ads_Campaign_20,Meta Ads,Retention,2025-07-18,143219.55,247426,8026,630
+21,Influencer_Campaign_21,Influencer,Retention,2025-05-17,37018.2,2232093,95240,2872
+22,Google_Ads_Campaign_22,Google Ads,Social,2025-01-11,181848.04,714558,30138,2129
+23,Influencer_Campaign_23,Influencer,Performance,2025-01-12,125535.63,1287799,20122,2633
+24,Google_Ads_Campaign_24,Google Ads,Performance,2026-01-31,42456.37,1910441,64937,6176
+25,Influencer_Campaign_25,Influencer,Search,2025-04-29,100391.15,440444,22115,1976
+26,Email_Campaign_26,Email,Performance,2026-01-17,111512.71,187595,6045,225
+27,Email_Campaign_27,Email,Search,2025-01-23,180973.39,1110636,72053,10740
+28,Email_Campaign_28,Email,Search,2026-02-14,132933.39,1516924,37127,2346
+29,Google_Ads_Campaign_29,Google Ads,Search,2025-07-29,49957.81,1530226,58618,4495
+30,Influencer_Campaign_30,Influencer,Remarketing,2026-02-25,197893.92,2387920,113947,7935
+31,Email_Campaign_31,Email,Search,2026-03-04,224063.77,747438,30672,2127
+32,Google_Ads_Campaign_32,Google Ads,Remarketing,2025-10-21,162044.83,1823725,25661,2717
+33,Google_Ads_Campaign_33,Google Ads,Performance,2026-05-18,37738.21,599162,23501,2576
+34,Email_Campaign_34,Email,Remarketing,2026-05-03,48902.94,1207224,76321,8075
+35,Google_Ads_Campaign_35,Google Ads,Social,2025-12-27,284500.85,1398878,46936,1607
+36,Email_Campaign_36,Email,Social,2025-09-11,73022.3,1159158,21047,3280
+37,Meta_Ads_Campaign_37,Meta Ads,Performance,2026-04-22,106098.48,563656,7398,898
+38,Email_Campaign_38,Email,Social,2026-05-15,212503.84,597554,20227,2916
+39,Influencer_Campaign_39,Influencer,Performance,2025-07-30,241713.97,2205156,48118,2240
+40,Influencer_Campaign_40,Influencer,Performance,2025-06-17,275085.3,2383764,134060,20220
+41,Email_Campaign_41,Email,Remarketing,2025-06-05,130652.01,324466,20269,2481
+42,Email_Campaign_42,Email,Social,2026-04-27,297841.76,696379,43069,3988
+43,Google_Ads_Campaign_43,Google Ads,Search,2025-03-21,49089.35,2470391,78682,2212
+44,Influencer_Campaign_44,Influencer,Performance,2025-01-02,251429.59,424394,15321,906
+45,Influencer_Campaign_45,Influencer,Social,2025-09-15,96189.72,1414166,40585,5610
+46,Google_Ads_Campaign_46,Google Ads,Remarketing,2026-05-05,282385.46,830237,15641,1191
+47,Influencer_Campaign_47,Influencer,Search,2025-06-18,263374.97,2461371,102464,11943
+48,Google_Ads_Campaign_48,Google Ads,Performance,2025-09-17,233435.77,1900283,41557,5138
+49,Email_Campaign_49,Email,Retention,2025-02-25,189049.29,1916062,29025,3764
+50,Google_Ads_Campaign_50,Google Ads,Retention,2026-02-27,80047.77,304188,17344,1328
+51,Google_Ads_Campaign_51,Google Ads,Social,2026-04-25,149339.1,509310,27666,4089
+52,Google_Ads_Campaign_52,Google Ads,Search,2025-11-23,29740.03,2017769,123271,7944
+53,Meta_Ads_Campaign_53,Meta Ads,Search,2025-03-05,218633.0,684478,20091,2769
+54,Meta_Ads_Campaign_54,Meta Ads,Social,2025-02-20,52446.19,1170592,68067,5604
+55,Meta_Ads_Campaign_55,Meta Ads,Search,2026-01-16,92320.71,401325,13291,752
+56,Meta_Ads_Campaign_56,Meta Ads,Search,2025-03-08,88613.89,202191,3206,228
+57,Email_Campaign_57,Email,Performance,2025-02-05,240625.62,1863350,67575,8983
+58,Meta_Ads_Campaign_58,Meta Ads,Search,2026-04-04,132181.39,567007,23446,2532
+59,Email_Campaign_59,Email,Performance,2025-09-29,169671.47,546347,19068,828
+60,Meta_Ads_Campaign_60,Meta Ads,Retention,2025-11-03,78413.2,2131365,114301,4770
