@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is an **end-to-end Business Analyst case study** built around a synthetic e-commerce business.
+This project is an **end-to-end Business Analyst case study** built around a e-commerce business.
 
 The goal was not simply to write SQL queries or build a dashboard. The project starts with a business problem, translates it into analytical questions, uses SQL to investigate the data, identifies business insights, and converts those insights into recommendations that can support better decisions.
 
@@ -366,9 +366,6 @@ Detailed interpretation and recommendations from the analysis:
 
 ### Power BI Build Guide
 
-Instructions for recreating the dashboard from the supplied data:
-
-[View Power BI Build Guide](powerbi/POWER_BI_BUILD_GUIDE.md)
 
 ---
 
@@ -378,40 +375,6 @@ Instructions for recreating the dashboard from the supplied data:
 
 ---
 
-# Project Structure
-
-```text
-Ecommerce-Customer-Marketing-SQL-Analytics/
-│
-├── README.md
-│
-├── data/
-│   ├── customers.csv
-│   ├── products.csv
-│   ├── orders.csv
-│   ├── order_items.csv
-│   ├── marketing_campaigns.csv
-│   ├── campaign_performance.csv
-│   └── website_sessions.csv
-│
-├── sql/
-│   ├── 01_schema.sql
-│   ├── 02_load_data.sql
-│   └── 03_business_analysis.sql
-│
-├── docs/
-│   ├── BRD.md
-│   └── FRD.md
-│
-├── insights/
-│   └── business_insights.md
-│
-└── powerbi/
-    ├── POWER_BI_BUILD_GUIDE.md
-    └── ecommerce_marketing_dashboard_light_natural.png
-```
-
----
 
 # How to Run the Project
 
@@ -453,15 +416,6 @@ Open:
 insights/business_insights.md
 ```
 
-## 5. Build the Power BI dashboard
-
-Follow:
-
-```text
-powerbi/POWER_BI_BUILD_GUIDE.md
-```
-
----
 
 # Portfolio Learning Outcome
 
@@ -499,8 +453,4 @@ The focus is on whether the analysis can answer:
 
 ---
 
-## Disclaimer
 
-This is a **synthetic portfolio case study** created to demonstrate SQL, Business Analysis, Power BI, requirements documentation, and analytical problem-solving skills.
-
-No confidential, proprietary, or real client/company data is included.
